@@ -1,7 +1,7 @@
 ## Short-term
 
 # GIF
-<img https://www.loom.com/share/b418cef8084a46fea3e5fbfec0e9fb64?sid=06886d2a-2f35-476e-b6a8-9f5588e0cf7e>
+<img src="https://www.loom.com/share/b418cef8084a46fea3e5fbfec0e9fb64?sid=06886d2a-2f35-476e-b6a8-9f5588e0cf7e">
 
 - [ ] don't allow empty submit--it creates a null item. HOW: need a validate function to call after grabbing form inputs. is validate built into browser as a function?
 - [ ] Form validations in js:
