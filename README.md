@@ -1,7 +1,8 @@
 ## Short-term
 
-# short
-<img src="https://github.com/JazlinBYU/phase-1-movie-list/blob/main/Untitled%202.mp4">](https://github.com/JazlinBYU/phase-1-movie-list/assets/124009526/154bb35a-bf3d-47a1-a30a-da55be1b43ed)
+
+https://github.com/JazlinBYU/phase-1-movie-list/assets/124009526/5241db60-0ba0-493d-8ee4-02f16dc2174c
+
 
 
 - [ ] don't allow empty submit--it creates a null item. HOW: need a validate function to call after grabbing form inputs. is validate built into browser as a function?
