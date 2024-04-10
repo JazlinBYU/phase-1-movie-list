@@ -1,7 +1,7 @@
 ## Short-term
 
-# GIF
-<div style="position: relative; padding-bottom: 52.39583333333333%; height: 0;"><iframe src="https://www.loom.com/embed/b418cef8084a46fea3e5fbfec0e9fb64?sid=b3a0d0e2-ce25-47a0-9e48-74da8da29bbd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+# short
+<img src="https://github.com/JazlinBYU/phase-1-movie-list/blob/main/Untitled%202.mp4">](https://github.com/JazlinBYU/phase-1-movie-list/assets/124009526/154bb35a-bf3d-47a1-a30a-da55be1b43ed)
 
 
 - [ ] don't allow empty submit--it creates a null item. HOW: need a validate function to call after grabbing form inputs. is validate built into browser as a function?
@@ -12,6 +12,8 @@
   - What if only 1 actor or 1 genre
   - How is rating value entered
   - Extra spaces
+
+
   - Spelling?
 - [ ] border around entire genre section?
 - validate how? if each item in movie object is empty ?
